@@ -14,7 +14,7 @@ const navbarLinks = [
     name: "Home",
     href: "/",
     target: "_self",
-  },
+  }
   // {
   //   name: "Creator",
   //   href: "https://github.com/riad-azz",
