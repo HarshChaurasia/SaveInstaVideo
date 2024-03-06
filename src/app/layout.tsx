@@ -7,7 +7,7 @@ import { Analytics } from "@vercel/analytics/react"
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import ScrollUpButton from "@/components/ScrollUpButton";
-
+import { SpeedInsights } from "@vercel/speed-insights/next"
 const mainFont = MainFont({
   subsets: ["latin"],
 });
@@ -34,6 +34,7 @@ export default function RootLayout({
         {children}
         <Footer />
         <Analytics/>
+        <SpeedInsights/>
       </body>
     </html>
   );
