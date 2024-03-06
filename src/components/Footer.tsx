@@ -8,7 +8,7 @@ const Footer = () => {
           aria-label="Disclaimer"
           className="text-sm font-semibold text-black"
         >
-          We are not affiliated with Instagram or Meta
+          {/* We are not affiliated with Instagram or Meta */}
         </div>
         <div className="flex items-center gap-1">
           <Link

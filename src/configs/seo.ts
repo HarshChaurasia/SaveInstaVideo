@@ -15,11 +15,11 @@ export const mainMetadata: Metadata = {
   ],
   authors: [
     {
-      name: "riad-azz",
-      url: "https://github.com/riad-azz",
+      name: "HarshChaurasia",
+      url: "https://github.com/HarshChaurasia",
     },
   ],
-  creator: "riad-azz",
+  creator: "HarshChaurasia",
   openGraph: {
     type: "website",
     locale: "en_US",
@@ -36,13 +36,13 @@ export const mainMetadata: Metadata = {
       },
     ],
   },
-  twitter: {
-    card: "summary_large_image",
-    title: siteConfig.name,
-    description: siteConfig.description,
-    images: [siteConfig.ogImageUrl],
-    creator: "@riadazz",
-  },
+  // twitter: {
+  //   card: "summary_large_image",
+  //   title: siteConfig.name,
+  //   description: siteConfig.description,
+  //   images: [siteConfig.ogImageUrl],
+  //   creator: "@riadazz",
+  // },
   robots: {
     index: false,
     follow: true,

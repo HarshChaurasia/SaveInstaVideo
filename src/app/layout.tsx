@@ -3,7 +3,7 @@ import { Inter as MainFont } from "next/font/google";
 import "@/styles/globals.css";
 import { cn } from "@/utils";
 import { mainMetadata } from "@/configs/seo";
-
+import { Analytics } from "@vercel/analytics/react"
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import ScrollUpButton from "@/components/ScrollUpButton";
@@ -33,6 +33,7 @@ export default function RootLayout({
         <ScrollUpButton />
         {children}
         <Footer />
+        <Analytics/>
       </body>
     </html>
   );

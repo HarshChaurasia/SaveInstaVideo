@@ -7,27 +7,35 @@ import { cn } from "@/utils";
 const FEATURES_LIST = [
   {
     title: "Fast and Reliable",
-    text: "Our reliable service ensures you get your videos without interruptions.",
+    text: "Enjoy swift and dependable video downloads, ensuring minimal waiting time and uninterrupted access to your favorite content.",
   },
   {
     title: "High-Quality Downloads",
-    text: "Download Instagram videos in the highest available quality.",
+    text: "Preserve the original quality of Instagram videos with our downloader, ensuring clarity and crispness in every download.",
   },
   {
     title: "User-Friendly Interface",
-    text: "No technical expertise required—just a few simple clicks.",
+    text: "Easily navigate and utilize our downloader with its intuitive design, making the downloading process simple and accessible for users of all levels.",
   },
   {
     title: "No Registration Required",
-    text: "No need to create an account or log in.",
+    text: "Easily navigate and utilize our downloader with its intuitive design, making the downloading process simple and accessible for users of all levels.",
   },
   {
     title: "Unlimited Downloads",
-    text: "Download as many Instagram videos as you want, with no restrictions.",
+    text: "Download as many Instagram videos as you desire, without any limitations. Whether it's one video or a hundred, our downloader has you covered.",
   },
   {
     title: "Supports Multiple Platforms",
-    text: "Compatible with various devices and platforms, including Windows, macOS, Android, and iOS.",
+    text: "Seamlessly download videos across various devices and operating systems, including Windows, macOS, Android, and iOS, ensuring compatibility and convenience for all users.",
+  },
+  {
+    title: "Privacy Protection",
+    text: "Rest assured that your privacy is our priority. Our downloader ensures that your personal information remains secure and is not collected during the downloading process.",
+  },
+  {
+    title: "Regular Updates",
+    text: "Stay up-to-date with the latest features and improvements. We continuously update our downloader to provide you with the best downloading experience possible.",
   },
 ];
 
@@ -134,15 +142,7 @@ export default function HomePage() {
             Welcome to Instagram Video Downloader
           </h2>
           <p className="leading-7">
-            Welcome to Instagram Video Downloader! Unlock the world of Instagram
-            videos like never before. Our user-friendly platform empowers you to
-            effortlessly save your favorite Instagram videos, offering you the
-            convenience and freedom to enjoy them offline. With high-quality
-            downloads, speed, and reliability at the core of our service, you
-            can trust us for all your video downloading needs. Explore our
-            user-friendly interface and start building your own offline
-            collection of Instagram content. Discover the world of Instagram
-            videos with ease and convenience, right here!
+          Welcome to Instagram Video Downloader! With our tool, you can easily download your favorite videos from Instagram in just a few simple steps. Whether it's a funny clip, a stunning travel moment, or an inspiring workout session, our downloader ensures you can keep and share your favorite content hassle-free. Simply paste the URL of the Instagram video you want to download, hit the download button, and enjoy your saved video offline. It's quick, easy, and free! Start saving your favorite Instagram videos today with our downloader.
           </p>
         </section>
 

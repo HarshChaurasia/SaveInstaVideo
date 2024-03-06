@@ -1,7 +1,7 @@
 {
   "name": "Instagram Video Downloader",
-  "short_name": "InstaDownloader",
-  "description": "Download Instagram videos easily with our free online video downloader.",
+  "short_name": "SaveInstaVideo",
+  "description": "Download Instagram videos easily with our Save insta free online video downloader.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -26,13 +26,14 @@
   "dir": "ltr",
   "categories": ["Internet"],
   "keywords": [
+    "Save Instagram Video",
     "Instagram video downloader",
     "download IG videos",
     "Instagram video saver"
   ],
-  "author": "riad-azz",
-  "copyright": "© 2023 riad-azz. All rights reserved.",
+  "author": "Harsh",
+  "copyright": "© 2024 Harsh. All rights reserved.",
   "rating": "General",
-  "apple-mobile-web-app-title": "InstaDownloader",
+  "apple-mobile-web-app-title": "SaveInstaVideo",
   "apple-mobile-web-app-status-bar-style": "black-translucent"
 }
