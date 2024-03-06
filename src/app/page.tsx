@@ -142,7 +142,7 @@ export default function HomePage() {
             Welcome to Instagram Video Downloader
           </h2>
           <p className="leading-7">
-          Welcome to Instagram Video Downloader! With our tool, you can easily download your favorite videos from Instagram in just a few simple steps. Whether it's a funny clip, a stunning travel moment, or an inspiring workout session, our downloader ensures you can keep and share your favorite content hassle-free. Simply paste the URL of the Instagram video you want to download, hit the download button, and enjoy your saved video offline. It's quick, easy, and free! Start saving your favorite Instagram videos today with our downloader.
+          Welcome to Instagram Video Downloader! With our tool, you can easily download your favorite videos from Instagram in just a few simple steps. Whether its a funny clip, a stunning travel moment, or an inspiring workout session, our downloader ensures you can keep and share your favorite content hassle-free. Simply paste the URL of the Instagram video you want to download, hit the download button, and enjoy your saved video offline. Its quick, easy, and free! Start saving your favorite Instagram videos today with our downloader.
           </p>
         </section>
 
